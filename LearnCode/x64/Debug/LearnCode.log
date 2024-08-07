@@ -1,0 +1,6 @@
+﻿  OnTap.cpp
+C:\Users\NGUYEN MANH DUNG\Desktop\CC++\learning\Code\LearnCode\LearnCode\OnTap.cpp(11,7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\NGUYEN MANH DUNG\Desktop\CC++\learning\Code\LearnCode\LearnCode\OnTap.cpp(24,72): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  LearnCode.vcxproj -> C:\Users\NGUYEN MANH DUNG\Desktop\CC++\learning\Code\LearnCode\x64\Debug\LearnCode.exe
